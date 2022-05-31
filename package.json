@@ -1,0 +1,23 @@
+{
+  "name": "@cats/lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cats-xyz/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cats-xyz/utils/issues"
+  },
+  "homepage": "https://github.com/Cats-xyz/utils#readme"
+}
